@@ -1,0 +1,51 @@
+name,session,scene,day,split,plate_L,plate_R,fill,n_occupied,layout,quarter_turns,marker_id
+S03_fill_poty-c_01,S03,1,A,dev,P1,P2,full,15,"L1,L5,L8-L9 U; L2-L4 H; L6,R2-R3,R8 HO; R1,R4-R6 UO; all other slots empty",L1:U/q2 L2:H L3:H L4:H L5:U/q0 L6:HO/q1 L8:U/q1 L9:U/q3 R1:UO/q2 R2:HO/q1 R3:HO/q0 R4:UO/q3 R5:UO/q1 R6:UO/q0 R8:HO/q2,1
+S03_fill_poty-c_02,S03,2,A,dev,P1,P2,sparse,3,"L5,R7 H; L7 UO; all other slots empty",L5:H L7:UO/q3 R7:H,1
+S03_fill_poty-c_03,S03,3,A,dev,P1,P2,full,15,"L3,R3-R5 U; L4,L6,L8 H; R2,R6-R9 HO; L2,L5,L9 UO; all other slots empty",L2:UO/q2 L3:U/q0 L4:H L5:UO/q0 L6:H L8:H L9:UO/q3 R2:HO/q3 R3:U/q1 R4:U/q2 R5:U/q0 R6:HO/q2 R7:HO/q2 R8:HO/q3 R9:HO/q0,1
+S03_fill_poty-c_04,S03,4,A,dev,P1,P2,medium,9,"R7,R9 U; L5,L7,R5 H; R3 HO; L2,L6,L8 UO; all other slots empty",L2:UO/q1 L5:H L6:UO/q3 L7:H L8:UO/q1 R3:HO/q0 R5:H R7:U/q0 R9:U/q2,1
+S03_fill_poty-c_05,S03,5,A,dev,P1,P2,sparse,3,"L4 U; L3,L9 HO; all other slots empty",L3:HO/q0 L4:U/q2 L9:HO/q1,1
+S03_fill_poty-c_06,S03,6,A,dev,P1,P2,full,15,"L5,L7-L9 U; R1,R4-R5,R8 H; R2-R3,R6 HO; L1,L3-L4,L6 UO; all other slots empty",L1:UO/q1 L3:UO/q2 L4:UO/q0 L5:U/q1 L6:UO/q2 L7:U/q1 L8:U/q2 L9:U/q3 R1:H R2:HO/q3 R3:HO/q2 R4:H R5:H R6:HO/q2 R8:H,1
+S03_fill_poty-c_07,S03,7,A,dev,P1,P2,medium,11,"L2,L7,R7 U; R1-R2,R5 H; L1 HO; R4,R6,R8-R9 UO; all other slots empty",L1:HO/q0 L2:U/q0 L7:U/q1 R1:H R2:H R4:UO/q1 R5:H R6:UO/q0 R7:U/q3 R8:UO/q1 R9:UO/q3,1
+S03_fill_poty-c_08,S03,8,A,dev,P1,P2,full,15,"L1-L3,R5 U; L4-L6,L9 H; R1-R2,R6,R8 HO; R3-R4,R9 UO; all other slots empty",L1:U/q2 L2:U/q0 L3:U/q3 L4:H L5:H L6:H L9:H R1:HO/q1 R2:HO/q2 R3:UO/q3 R4:UO/q2 R5:U/q1 R6:HO/q2 R8:HO/q0 R9:UO/q3,1
+S03_fill_poty-c_09,S03,9,A,dev,P1,P2,medium,13,"R3,R8 U; L1,L4,L6-L7 H; R1-R2,R7,R9 HO; L3,L8-L9 UO; all other slots empty",L1:H L3:UO/q1 L4:H L6:H L7:H L8:UO/q3 L9:UO/q0 R1:HO/q0 R2:HO/q3 R3:U/q3 R7:HO/q3 R8:U/q3 R9:HO/q2,1
+S03_fill_poty-c_10,S03,10,A,dev,P1,P2,medium,12,"R1,R7,R9 U; R4,R6 H; L2,L6,L9,R2 HO; R3,R5,R8 UO; all other slots empty",L2:HO/q3 L6:HO/q1 L9:HO/q2 R1:U/q2 R2:HO/q3 R3:UO/q1 R4:H R5:UO/q0 R6:H R7:U/q2 R8:UO/q0 R9:U/q1,1
+S04_fill_poty-c_01,S04,1,A,test,P2,P1,full,14,"L2,L6,L9,R4,R9 U; R1,R5-R6 H; L1,L3,L5 HO; L4,L7-L8 UO; all other slots empty",L1:HO/q1 L2:U/q0 L3:HO/q2 L4:UO/q0 L5:HO/q0 L6:U/q2 L7:UO/q2 L8:UO/q3 L9:U/q1 R1:H R4:U/q3 R5:H R6:H R9:U/q1,1
+S04_fill_poty-c_02,S04,2,A,test,P2,P1,full,16,"R2-R3,R5,R8 U; L1,L5-L6,L8 H; R1,R4,R6-R7 HO; L3-L4,L9,R9 UO; all other slots empty",L1:H L3:UO/q1 L4:UO/q0 L5:H L6:H L8:H L9:UO/q3 R1:HO/q2 R2:U/q0 R3:U/q2 R4:HO/q3 R5:U/q0 R6:HO/q1 R7:HO/q0 R8:U/q3 R9:UO/q2,1
+S04_fill_poty-c_03,S04,3,A,test,P2,P1,medium,8,"R9 U; L2,L8 H; L4-L5,L7 HO; L3,L6 UO; all other slots empty",L2:H L3:UO/q2 L4:HO/q0 L5:HO/q1 L6:UO/q0 L7:HO/q1 L8:H R9:U/q3,1
+S04_fill_poty-c_04,S04,4,A,test,P2,P1,sparse,1,R7 U; all other slots empty,R7:U/q2,
+S04_fill_poty-c_05,S04,5,A,test,P2,P1,full,16,"L1,L6-L7 U; L2,L4-L5,L8-L9 H; R1,R6,R8 HO; R2-R5,R7 UO; all other slots empty",L1:U/q0 L2:H L4:H L5:H L6:U/q2 L7:U/q1 L8:H L9:H R1:HO/q3 R2:UO/q1 R3:UO/q1 R4:UO/q1 R5:UO/q2 R6:HO/q0 R7:UO/q3 R8:HO/q1,1
+S04_fill_poty-c_06,S04,6,A,test,P2,P1,medium,6,"R1,R4 U; L1,L7-L8 HO; L9 UO; all other slots empty",L1:HO/q3 L7:HO/q0 L8:HO/q3 L9:UO/q2 R1:U/q3 R4:U/q1,1
+S04_fill_poty-c_07,S04,7,A,test,P2,P1,full,16,"R3,R6-R7,R9 U; R1-R2,R4-R5,R8 H; L1,L6,L8 HO; L2,L4-L5,L7 UO; all other slots empty",L1:HO/q2 L2:UO/q0 L4:UO/q3 L5:UO/q0 L6:HO/q1 L7:UO/q1 L8:HO/q1 R1:H R2:H R3:U/q0 R4:H R5:H R6:U/q1 R7:U/q2 R8:H R9:U/q2,1
+S04_fill_poty-c_08,S04,8,A,test,P2,P1,medium,10,"R4-R5,R9 U; L1,L5,L9 H; R3,R6 HO; L7,R2 UO; all other slots empty",L1:H L5:H L7:UO/q2 L9:H R2:UO/q1 R3:HO/q0 R4:U/q3 R5:U/q0 R6:HO/q2 R9:U/q0,1
+S04_fill_poty-c_09,S04,9,A,test,P2,P1,medium,9,"L6 U; R7,R9 H; L3-L4,L8 HO; L1,L7,L9 UO; all other slots empty",L1:UO/q3 L3:HO/q3 L4:HO/q2 L6:U/q0 L7:UO/q0 L8:HO/q2 L9:UO/q3 R7:H R9:H,1
+S04_fill_poty-c_10,S04,10,A,test,P2,P1,sparse,4,"L3,R8 U; L4 H; L2 UO; all other slots empty",L2:UO/q0 L3:U/q3 L4:H R8:U/q1,1
+S05_fill_poty-c_01,S05,1,A,test,P1,P1,medium,8,"R4 U; R2,R9 H; R5-R6,R8 HO; L5,R3 UO; all other slots empty",L5:UO/q2 R2:H R3:UO/q3 R4:U/q3 R5:HO/q1 R6:HO/q3 R8:HO/q3 R9:H,1
+S05_fill_poty-c_02,S05,2,A,test,P1,P1,medium,11,"L2,L5,L8-L9 U; L1,L3,L7 H; R4,R7 HO; L6,R5 UO; all other slots empty",L1:H L2:U/q3 L3:H L5:U/q3 L6:UO/q1 L7:H L8:U/q2 L9:U/q2 R4:HO/q3 R5:UO/q2 R7:HO/q2,1
+S05_fill_poty-c_03,S05,3,A,test,P1,P1,full,14,"L1,L9,R1,R4 U; R2-R3,R6 H; L4-L5,L7-L8 HO; R5,R8-R9 UO; all other slots empty",L1:U/q0 L4:HO/q0 L5:HO/q0 L7:HO/q1 L8:HO/q0 L9:U/q0 R1:U/q1 R2:H R3:H R4:U/q2 R5:UO/q3 R6:H R8:UO/q2 R9:UO/q1,1
+S05_fill_poty-c_04,S05,4,A,test,P1,P1,medium,7,"R4 U; L2,R8 H; R2,R5 HO; R3,R7 UO; all other slots empty",L2:H R2:HO/q0 R3:UO/q1 R4:U/q0 R5:HO/q2 R7:UO/q2 R8:H,1
+S05_fill_poty-c_05,S05,5,A,test,P1,P1,sparse,3,"R3 H; L3,R1 UO; all other slots empty",L3:UO/q1 R1:UO/q3 R3:H,1
+S05_fill_poty-c_06,S05,6,A,test,P1,P1,full,14,"L1-L2,L6,L8 U; L3-L4,L7 H; L9,R6,R9 HO; R1-R2,R4,R8 UO; all other slots empty",L1:U/q0 L2:U/q2 L3:H L4:H L6:U/q1 L7:H L8:U/q1 L9:HO/q2 R1:UO/q0 R2:UO/q3 R4:UO/q3 R6:HO/q1 R8:UO/q2 R9:HO/q0,1
+S05_fill_poty-c_07,S05,7,A,test,P1,P1,full,14,"R4,R7,R9 U; L6,L8,R6,R8 H; L1,L3-L5 HO; R2-R3,R5 UO; all other slots empty",L1:HO/q0 L3:HO/q3 L4:HO/q1 L5:HO/q2 L6:H L8:H R2:UO/q3 R3:UO/q0 R4:U/q3 R5:UO/q1 R6:H R7:U/q2 R8:H R9:U/q0,1
+S05_fill_poty-c_08,S05,8,A,test,P1,P1,full,16,"L1,L3,L7,R1 U; R4-R6,R9 H; R2-R3,R7-R8 HO; L2,L4,L8-L9 UO; all other slots empty",L1:U/q1 L2:UO/q3 L3:U/q2 L4:UO/q1 L7:U/q2 L8:UO/q0 L9:UO/q1 R1:U/q1 R2:HO/q2 R3:HO/q2 R4:H R5:H R6:H R7:HO/q2 R8:HO/q0 R9:H,1
+S05_fill_poty-c_09,S05,9,A,test,P1,P1,medium,11,"R1,R4,R8 U; L6,L9 H; R2,R6-R7 HO; R3,R5,R9 UO; all other slots empty",L6:H L9:H R1:U/q2 R2:HO/q1 R3:UO/q3 R4:U/q0 R5:UO/q3 R6:HO/q0 R7:HO/q2 R8:U/q2 R9:UO/q0,1
+S05_fill_poty-c_10,S05,10,A,test,P1,P1,sparse,3,R7 U; R1 H; L8 HO; all other slots empty,L8:HO/q1 R1:H R7:U/q0,1
+S06_fill_poty-c_01,S06,1,B,dev,P2,P2,full,15,"L2,L5-L6,L8 U; L1,L3-L4,L7 H; R1,R4-R5 HO; R3,R6-R7,R9 UO; all other slots empty",L1:H L2:U/q3 L3:H L4:H L5:U/q0 L6:U/q2 L7:H L8:U/q2 R1:HO/q0 R3:UO/q2 R4:HO/q2 R5:HO/q1 R6:UO/q3 R7:UO/q1 R9:UO/q0,1
+S06_fill_poty-c_02,S06,2,B,dev,P2,P2,sparse,4,"L9 U; L6 H; L4,L7 HO; all other slots empty",L4:HO/q3 L6:H L7:HO/q1 L9:U/q1,1
+S06_fill_poty-c_03,S06,3,B,dev,P2,P2,medium,10,"L1,L5 U; R7-R8 H; L4,R2 HO; L3,L6-L7,L9 UO; all other slots empty",L1:U/q1 L3:UO/q2 L4:HO/q3 L5:U/q1 L6:UO/q0 L7:UO/q3 L9:UO/q2 R2:HO/q1 R7:H R8:H,1
+S06_fill_poty-c_04,S06,4,B,dev,P2,P2,empty,0,"L1-L9,R1-R9 empty",,
+S06_fill_poty-c_05,S06,5,B,dev,P2,P2,full,15,"R2-R4,R6 U; L4-L5,L7,L9 H; L3,R1,R7,R9 HO; L1-L2,L8 UO; all other slots empty",L1:UO/q3 L2:UO/q0 L3:HO/q1 L4:H L5:H L7:H L8:UO/q2 L9:H R1:HO/q2 R2:U/q1 R3:U/q3 R4:U/q2 R6:U/q0 R7:HO/q3 R9:HO/q2,1
+S06_fill_poty-c_06,S06,6,B,dev,P2,P2,full,16,"L2-L3,L7,L9 U; L4-L6,L8 H; R1,R5,R7,R9 HO; R2-R3,R6,R8 UO; all other slots empty",L2:U/q2 L3:U/q0 L4:H L5:H L6:H L7:U/q3 L8:H L9:U/q1 R1:HO/q1 R2:UO/q3 R3:UO/q1 R5:HO/q0 R6:UO/q0 R7:HO/q1 R8:UO/q2 R9:HO/q3,1
+S06_fill_poty-c_07,S06,7,B,dev,P2,P2,full,15,"R1,R4,R8-R9 U; L6,R3,R7 H; L3-L4,L7-L9 HO; L1-L2,L5 UO; all other slots empty",L1:UO/q1 L2:UO/q3 L3:HO/q1 L4:HO/q2 L5:UO/q0 L6:H L7:HO/q3 L8:HO/q0 L9:HO/q0 R1:U/q3 R3:H R4:U/q0 R7:H R8:U/q1 R9:U/q1,1
+S06_fill_poty-c_08,S06,8,B,dev,P2,P2,medium,10,"L2-L3,L5 U; R1,R8-R9 H; R2,R6 HO; L1,L9 UO; all other slots empty",L1:UO/q3 L2:U/q2 L3:U/q0 L5:U/q0 L9:UO/q2 R1:H R2:HO/q1 R6:HO/q1 R8:H R9:H,1
+S06_fill_poty-c_09,S06,9,B,dev,P2,P2,medium,8,"L4 U; L5,L9 H; L6 HO; L2,R1,R3,R5 UO; all other slots empty",L2:UO/q0 L4:U/q3 L5:H L6:HO/q2 L9:H R1:UO/q1 R3:UO/q2 R5:UO/q3,1
+S06_fill_poty-c_10,S06,10,B,dev,P2,P2,medium,13,"R3,R7-R8 U; R1-R2,R4-R5 H; L5-L6,L9 HO; L1,L3,R9 UO; all other slots empty",L1:UO/q0 L3:UO/q0 L5:HO/q2 L6:HO/q0 L9:HO/q0 R1:H R2:H R3:U/q1 R4:H R5:H R7:U/q1 R8:U/q2 R9:UO/q2,1
+S07_fill_poty-c_01,S07,1,B,test,P1,P2,medium,7,"L1,L7 U; L2 H; L6,L8-L9 HO; R6 UO; all other slots empty",L1:U/q3 L2:H L6:HO/q3 L7:U/q1 L8:HO/q3 L9:HO/q2 R6:UO/q0,1
+S07_fill_poty-c_02,S07,2,B,test,P1,P2,medium,11,"L4,L9 U; L2,R7-R8 H; L3,L8 HO; L1,L5-L7 UO; all other slots empty",L1:UO/q3 L2:H L3:HO/q1 L4:U/q3 L5:UO/q3 L6:UO/q2 L7:UO/q0 L8:HO/q1 L9:U/q0 R7:H R8:H,1
+S07_fill_poty-c_03,S07,3,B,test,P1,P2,medium,12,"L4-L5,L7-L8,R3 U; R2,R4,R6 H; R1,R7-R8 HO; R5 UO; all other slots empty",L4:U/q2 L5:U/q1 L7:U/q1 L8:U/q1 R1:HO/q3 R2:H R3:U/q3 R4:H R5:UO/q1 R6:H R7:HO/q1 R8:HO/q3,1
+S07_fill_poty-c_04,S07,4,B,test,P1,P2,sparse,3,R9 HO; R6-R7 UO; all other slots empty,R6:UO/q2 R7:UO/q0 R9:HO/q2,1
+S07_fill_poty-c_05,S07,5,B,test,P1,P2,full,15,"L1-L2,L8-L9 U; L3-L4,L6-L7 H; R4,R6,R8-R9 HO; R2-R3,R7 UO; all other slots empty",L1:U/q2 L2:U/q1 L3:H L4:H L6:H L7:H L8:U/q2 L9:U/q0 R2:UO/q0 R3:UO/q1 R4:HO/q2 R6:HO/q2 R7:UO/q3 R8:HO/q1 R9:HO/q1,1
+S07_fill_poty-c_06,S07,6,B,test,P1,P2,full,15,"R1-R2,R8-R9 U; L1-L2,L6-L8 H; L3,R6-R7 HO; R3-R5 UO; all other slots empty",L1:H L2:H L3:HO/q3 L6:H L7:H L8:H R1:U/q3 R2:U/q2 R3:UO/q2 R4:UO/q3 R5:UO/q1 R6:HO/q0 R7:HO/q1 R8:U/q2 R9:U/q0,1
+S07_fill_poty-c_07,S07,7,B,test,P1,P2,medium,7,"L1 U; R3 H; L2-L3 HO; L4-L5,L8 UO; all other slots empty",L1:U/q0 L2:HO/q0 L3:HO/q2 L4:UO/q0 L5:UO/q2 L8:UO/q0 R3:H,1
+S07_fill_poty-c_08,S07,8,B,test,P1,P2,full,16,"R4-R5,R7-R9 U; R1-R3,R6 H; L1,L3,L7-L8 HO; L2,L4-L5 UO; all other slots empty",L1:HO/q1 L2:UO/q3 L3:HO/q0 L4:UO/q1 L5:UO/q3 L7:HO/q1 L8:HO/q3 R1:H R2:H R3:H R4:U/q0 R5:U/q1 R6:H R7:U/q2 R8:U/q0 R9:U/q3,1
+S07_fill_poty-c_09,S07,9,B,test,P1,P2,empty,0,"L1-L9,R1-R9 empty",,
+S07_fill_poty-c_10,S07,10,B,test,P1,P2,full,14,"L5,L7 U; L2,L4,L8,R4 H; L1,L3,L9 HO; R2,R5-R6,R8-R9 UO; all other slots empty",L1:HO/q3 L2:H L3:HO/q2 L4:H L5:U/q3 L7:U/q1 L8:H L9:HO/q2 R2:UO/q0 R4:H R5:UO/q2 R6:UO/q2 R8:UO/q3 R9:UO/q3,1
